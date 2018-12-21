@@ -19,7 +19,7 @@ const data = {
   work: chalk.white('Staff Engineer at Compass /'),
   twitter: chalk.cyan('https://twitter.com/cwaeland'),
   github: chalk.cyan('https://github.com/cwaeland'),
-  linkedin: chalk.cyan('https://linkedin.com/in/bitandbang'),
+  linkedin: chalk.cyan('https://linkedin.com/in/cameronwaeland'),
   web: chalk.cyan('waeland.com'),
   npx: chalk.white('npx cameron'),
   labelWork: chalk.white.bold('      Work:'),
